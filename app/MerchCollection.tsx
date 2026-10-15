@@ -4,7 +4,7 @@ const merchandise = [
     type: "Halloween Coffee Mug",
     description: "Spooky little sips for dog people, cat people, and their delightful chaos.",
     image: "/images/haunt-mess-express-mug.jpg",
-    price: "$19.99",
+    price: "$18.99",
     imageAlt: "Beans & Bedlam Haunt Mess Express Halloween dog and cat coffee mug",
     url: "https://www.etsy.com/listing/4595630880/halloween-dog-and-cat-coffee-mug-funny",
   },
