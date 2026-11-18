@@ -16,3 +16,9 @@
 /* Etsy product image links */
 a.product-media { display: block; color: inherit; text-decoration: none; }
 a.product-media:focus-visible { outline: 3px solid #B84138; outline-offset: 3px; }
+
+
+/* Four binder editions, with the complete Clean & Minimal preview visible. */
+@media(min-width:681px){.collection .product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.collection .product-media{height:auto;aspect-ratio:1/1}}
+.product-media.clean-minimal{padding:0;background:#f7f6f0}
+.product-media.clean-minimal img{object-fit:contain;box-shadow:none}
