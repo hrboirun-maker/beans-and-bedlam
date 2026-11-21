@@ -2,7 +2,7 @@ import MerchCollection from "./MerchCollection";
 const products = [
  {name:"Vintage",subtitle:"41 pages in printable and fillable PDFs, plus a quick-start guide",image:"/images/vintage.jpg",tone:"sage",url:"https://www.etsy.com/listing/4594837577/pet-emergency-binder-printable-pdf-care"},
  {name:"Cute Pets",subtitle:"41 pages in printable and fillable PDFs, plus a quick-start guide",image:"/images/cute.jpg",tone:"gold",url:"https://www.etsy.com/listing/4594851800/pet-emergency-binder-printable-pdf-care"},
- {name:"Family Friendly",subtitle:"41 pages in printable and fillable PDFs, plus a quick-start guide",image:"/images/family.jpg",tone:"rose",url:"https://www.etsy.com/listing/4594811697/pet-emergency-binder-printable-pdf-care"},
+ {name:"Family Friendly",subtitle:"41 pages in printable and fillable PDFs, plus a quick-start guide",image:"/images/family-clean.jpg",tone:"rose clean-minimal",url:"https://www.etsy.com/listing/4594811697/pet-emergency-binder-printable-pdf-care",format:"PRINTABLE + FILLABLE PDF",imageAlt:"Actual Family Friendly binder cover, pet profile, and vaccination record pages; printable and fillable PDFs included"},
  {name:"Clean & Minimal",subtitle:"41 pages in printable and fillable PDFs, plus a quick-start guide",image:"/images/clean-minimal.jpg",tone:"sage clean-minimal",url:"https://www.etsy.com/listing/4619671075/pet-emergency-binder-printable-and",price:"$7.99",format:"PRINTABLE + FILLABLE PDF",imageAlt:"Actual cover, pet profile, and medication instruction pages from the Clean & Minimal Pet Emergency & Care Binder"},
 ];
 export default function Home(){return <>
